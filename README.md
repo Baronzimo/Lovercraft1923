@@ -1,4 +1,3 @@
-# Lovercraft1923
 Python script that creates a straightforward SSH honeypot server is available in this repository. The purpose of the honeypot is to record connection attempts made by potential attackers and collect data on their login attempts.
 
 The honeypot server will begin monitoring port 22 (you can change port) for SSH connection attempts as soon as you launch the honeypot.py script using the: 
